@@ -1,0 +1,28 @@
+Datasets Used in This Project
+=============================
+
+This file provides information about the datasets used in this repository.
+Each dataset is listed with a brief description and its original source link.
+
+--------------------------------------------------
+
+1. House Prices Dataset
+   Description:
+   This dataset contains information about residential properties, including
+   location, area, number of rooms, furnishing status, and other features.
+   It is used to build and evaluate a machine learning regression model for
+   predicting house prices.
+
+   Source:
+   https://www.kaggle.com/datasets/juhibhojani/house-price
+
+   File Name:
+   house_prices.csv
+
+--------------------------------------------------
+
+Notes:
+- The datasets are used strictly for educational and academic purposes.
+- All rights and credits belong to the original dataset creators.
+- If you use these datasets, please refer to the original source for licensing
+  and usage terms.
